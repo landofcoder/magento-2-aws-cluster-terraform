@@ -68,8 +68,8 @@ variable "app" {
     linux_packages   = "nfs-common unzip git patch python3-pip acl attr imagemagick snmp"
     exclude_linux_packages = "apache2* *apcu-bc"
     volume_size      = "50"
-    composer_user    = "8c681734f22763b50ea0c29dff9e7af2"
-    composer_pass    = "02dfee497e669b5db1fe1c8d481d6974"
+    composer_user    = "437ca9fe92e6dd01f85c56234d16c6c2"
+    composer_pass    = "f101e26d4df88f968edf3a37a329c9ac"
   }
 }
 
