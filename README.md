@@ -97,7 +97,7 @@ The idea was to create a full-fledged turnkey infrastructure, with deeper settin
 - [x] Clone repo:  
 > 
 ```
-  git clone https://github.com/magenx/Magento-2-aws-cluster-terraform.git .
+  git clone https://github.com/landofcoder/magento-2-aws-cluster-terraform.git .
 ```
 >  
 **[ ! ]** Right after `terraform apply` you will receive email from amazon to approve resources    
@@ -169,7 +169,7 @@ The idea was to create a full-fledged turnkey infrastructure, with deeper settin
    
 |**Performance and security enhancements**||**Enabled modules for test requirements**|
 |:-----|---|:-----|
-|Faster backend and frontend from 14% upto 50%||[Mageplaza SMTP](https://github.com/mageplaza/magento-2-smtp)|
+|Faster backend and frontend from 14% upto 50%||[Landofcoder SMTP](https://github.com/landofcoder/magento2-smtp-app)|
 |Better memory management upto 15%|| |
 |Easy deployments|| |
 |Less dependencies|| |
@@ -195,8 +195,8 @@ The idea was to create a full-fledged turnkey infrastructure, with deeper settin
    
 ## [:e-mail:] Contact us for installation and support:
 We can launch this project for your store in a short time. Many big retailers have already migrated to this architecture.
-- [x] Write us an [email](mailto:info@magenx.com?subject=Magento%202%20auto%20scaling%20cluster%20on%20AWS) to discuss the project.
-- [x] Send a private message on [Linkedin](https://www.linkedin.com/in/magenx/)  
+- [x] Write us an [email](mailto:info@landofcoder.com?subject=Magento%202%20auto%20scaling%20cluster%20on%20AWS) to discuss the project.
+- [x] Send a private message on [Linkedin](https://www.linkedin.com/in/landofcoder/)  
     
 <br />
     

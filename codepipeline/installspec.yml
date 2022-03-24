@@ -107,7 +107,7 @@ phases:
       ## sync to s3 remote storage
       bin/magento remote-storage:sync
       ## install modules to properly test magento 2 production-ready functionality
-      composer -n require mageplaza/module-smtp
+      composer -n require landofcoder/module-smtp-app
       if [ "${parameter["FASTLY"]}" == "enabled" ]; then
       composer -n require fastly/magento2
       fi
