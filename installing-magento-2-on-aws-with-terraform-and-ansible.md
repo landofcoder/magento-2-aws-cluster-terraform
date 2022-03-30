@@ -371,3 +371,5 @@ It will show the Installation page of magento 2.
 ## Conclusion
 
 With this we can easily setup LAMP server and configure ec2 and RDS in our AWS account by some commands. After completion of this we can run our magento 2 site in the browser.
+
+Thanks you for blog post: https://cloudkul.com/blog/installing-magento-2-on-aws-with-terraform-and-ansible/
